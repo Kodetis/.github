@@ -1,6 +1,6 @@
 # Kodetis
 
-![Kodetis](../RD_KODETIS.png)
+![Kodetis](../Github_public-kodetis.png)
 
 [![Website](https://img.shields.io/badge/website-kodetis.com-0A0A0A?style=flat-square&logo=globe)](https://kodetis.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kodetis-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/kodetis)
